@@ -21,7 +21,7 @@
 
 </tr>    
 <tr>
-      <td><a href="https://github.com/akylson/iris-prediction-with-django"><b>Работа c библиотеками sql-alchemy, flask, dash</b></a></td>
+      <td><a href="https://github.com/GridasovEugeny/sqlalchemy_flask_dash__project"><b>Работа c библиотеками sql-alchemy, flask, dash</b></a></td>
       <td>В этом репозитории находится проект который представляет из себя сайт одностраничник на flask с дашбордами dash plotly строящимися по запросам из субд mysql(sql alchemy). Пример моей работы с библиотеками sql-alchemy, flask, dash. Для запуска необходимо использовать venv лежащий в репозитории.</td>
 </tr>
   </tbody>
