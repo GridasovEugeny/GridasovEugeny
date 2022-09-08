@@ -21,8 +21,8 @@
 
 </tr>    
 <tr>
-      <td><a href="https://github.com/GridasovEugeny/sqlalchemy_flask_dash__project"><b>Работа c библиотеками sql-alchemy, flask, dash</b></a></td>
-      <td>В этом репозитории находится проект который представляет из себя сайт одностраничник на flask с дашбордами dash plotly строящимися по запросам из субд mysql(sql alchemy). Пример моей работы с библиотеками sql-alchemy, flask, dash. Для запуска необходимо использовать venv лежащий в репозитории.</td>
+      <td><a href="https://github.com/GridasovEugeny/sqlalchemy_flask_dash__project"><b>Pet с библиотеками sql-alchemy, flask, dash</b></a></td>
+      <td>Проект представляет из себя сайт одностраничник на flask с дашбордами dash plotly строящимися по запросам из субд PSQL через драйвер и orm слой sql alchemy и контролем версий субд alembic. Пример моей работы с библиотеками sql-alchemy, flask, dash.</td>
 </tr>
   </tbody>
 </table>
