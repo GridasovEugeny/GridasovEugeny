@@ -8,7 +8,7 @@
 <table width=100%>
   <thead align="center">
     <tr border: none;>
-      <td><b>Проект</b></td>
+      <td><b>Репозиторий</b></td>
       <td><b>Описание</b></td>
     </tr>
   </thead>
