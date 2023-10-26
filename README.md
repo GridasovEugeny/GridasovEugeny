@@ -22,7 +22,7 @@
 </tr>    
 <tr>
       <td><a href="https://github.com/GridasovEugeny/sqlalchemy_flask_dash__project"><b>Pet с библиотеками sql-alchemy, flask, dash</b></a></td>
-      <td>Пример моей работы с библиотеками sql-alchemy, flask, dash. Мой первый пет проект на python</td>
+      <td>Сайт с дашбордом на dash. Пример моей работы с библиотеками sql-alchemy, flask, dash. Мой первый пет проект на python</td>
 </tr>
   </tbody>
 </table>
